@@ -1,6 +1,6 @@
 import { alphabetSubsequence } from './alphabetSubsequence';
 
-xdescribe(alphabetSubsequence.name, () => {
+describe(alphabetSubsequence.name, () => {
     it('Test 1', () => {
         // arrange
         const data = 'effg';
